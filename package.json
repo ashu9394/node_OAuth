@@ -1,0 +1,32 @@
+{
+  "name": "node_oauth",
+  "version": "1.0.0",
+  "description": "Oauth with nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "node npm "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashu9394/node_OAuth.git"
+  },
+  "keywords": [
+    "Node",
+    "npm",
+    "express",
+    "ES6"
+  ],
+  "author": "Ashu Gupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashu9394/node_OAuth/issues"
+  },
+  "homepage": "https://github.com/ashu9394/node_OAuth#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.4"
+  }
+}
