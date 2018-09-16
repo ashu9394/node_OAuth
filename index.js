@@ -1,6 +1,7 @@
 //Dependencies
 const express = require('express')
 const loginRoutes = require('./routes/auth-route')
+const passportStrategy = require('./config/passport-setup')
 
 
 //Application Variables
